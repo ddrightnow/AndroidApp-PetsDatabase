@@ -52,6 +52,9 @@ public class EditorActivity extends AppCompatActivity implements
     /** Content URI for the existing pet (null if it's a new pet) */
     private Uri mCurrentPetUri;
 
+
+    private int test;
+
     /** EditText field to enter the pet's name */
     private EditText mNameEditText;
 
